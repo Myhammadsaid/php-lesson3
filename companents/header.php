@@ -18,6 +18,7 @@
           <li><a href="/" class="nav-link px-2 text-secondary">Главная страница</a></li>
           <li><a href="funphpinfo.php" class="nav-link px-2 text-white">Функция phpinfo()</a></li>
           <li><a href="sendemail.php" class="nav-link px-2 text-white">Отправка почты</a></li>
+          <li><a href="cookies.php" class="nav-link px-2 text-white">Куки и сессии</a></li>
         </ul>
 
         <div class="text-end">
